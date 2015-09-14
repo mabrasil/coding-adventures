@@ -40,22 +40,26 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] 1 Pull Request por dia durante 10 dias seguidos em projetos diferentes
 
 **Outros**
-- [x] Ter um projeto divulgado em alguma Weekly
 - [x] 10 Followers
-- [ ] 25 Followers
+- [x] 25 Followers
 - [ ] 50 Followers
 - [ ] 75 Followers
 - [ ] 100 Followers
+- [ ] Ter um projeto divulgado em alguma Weekly
 - [x] Atingir 250 contribuições
 - [x] Atingir 500 contribuições
 - [x] Atingir 750 contribuições
 - [x] Atingir 1.000 contribuições
+- [ ] Atingir 1.500 contribuições
+- [ ] Atingir 2.000 contribuições
 
 ##Registros da aventura :memo:
 
 ##Dicas :bulb:
 
 - Os commits devem ser feitos nas primeiras horas do dia, por exemplo as 00:30h.
+- Issues em qualquer repositório também representam contribuições: isso pode *te salvar* quando estiver sem ideias de projetos ou de *features*, *bug fixes* etc.
+- *Pull Requests* contam uma contribuição. Se aprovados, mais uma - logo, se não for dado *merge*, apenas uma.
 
 ##Referências :page_facing_up:
 
